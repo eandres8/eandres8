@@ -21,7 +21,7 @@ I am currently reinforcing all the knowledge I can get from **Design Patterns an
 ```js
 const skills = {
     languages: [ 'Javascript', 'Typescript', 'PHP', 'Python', 'Dart' ],
-    frameworks: [ 'Angular', 'Flutter', 'Laravel', 'AdonisJS', 'NestJS', React' Native', 'React', 'Ionic', 'Express'],
+    frameworks: [ 'Angular', 'Flutter', 'Laravel', 'AdonisJS', 'NestJS', 'React Native', 'React', 'Ionic', 'Express'],
     dataBases: ['MySQL', 'PostgreSQL', 'MongoDB'],
     environment: ['Git', 'Github', 'Bitbucket', 'Docker', 'Unit Testing'],
     learning: ['GraphQL', 'AWS', 'English'],
