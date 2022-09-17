@@ -3,67 +3,23 @@
 
 <hr />
 
-<style>
-    .window {
-        border: 2px solid #666; border-radius: 15px;
-    }
-    .window-navigator {
-        padding: 1px 10px;
-        border-bottom: 2px solid #666;
-        background-color: silver;
-        border-radius: 13px 13px 0 0;
-    }
-    .window-actions {
-        display: flex; margin: 0; padding: 0 0 0 15px;
-    }
-
-    .window-actions li {
-        width: 10px;
-    }
-
-    .semantic-tag {
-        padding: 5px 15px; margin: 10px; border-radius: 15px;
-    }
-    .semantic-tag > legend > span {
-        padding: 5px;
-    }
-    .border-green {
-        border: 2px solid #08aa90;
-    }
-    .border-yellow {
-        border: 2px solid #ffc107;
-    }
-    .border-blue {
-        border: 2px solid #0dcaf0;
-    }
-    .list-contact {
-        display: flex;
-        list-style: none;
-        justify-content: center;
-        align-items: center;
-    }
-    .list-contact li {
-        margin-right: 10px;
-    }
-</style>
-
-<div class="window">
-    <div class="window-navigator">
-        <ul class="window-actions">
-            <li></li>
-            <li></li>
-            <li></li>
+<div style="border: 2px solid #666; border-radius: 15px">
+    <div style="padding: 1px 10px; border-bottom: 2px solid #666;background-color: silver; border-radius: 13px 13px 0 0">
+        <ul style="display: flex; margin: 0; padding: 0 0 0 15px">
+            <li style="width: 10px"></li>
+            <li style="width: 10px"></li>
+            <li style="width: 10px"></li>
         </ul>
     </div>
-    <fieldset class="semantic-tag border-green">
-        <legend><span>< header ></span></legend>
+    <fieldset style="padding: 5px 15px; margin: 10px; border-radius: 15px; border: 2px solid #08aa90;">
+        <legend><span style="padding: 5px">< header ></span></legend>
         <p align="center">
             <img src="./assets/js_banner.webp" />
         </p>
     </fieldset>
     <div style="display: flex">
-        <fieldset class="semantic-tag border-yellow">
-            <legend><span>< aside ></span></legend>
+        <fieldset style="padding: 5px 15px; margin: 10px; border-radius: 15px;border: 2px solid #ffc107;">
+            <legend><span style="padding: 5px">< aside ></span></legend>
             <p>
                 Hobbies
             </p>
@@ -74,8 +30,8 @@
                 <li>watch TV shows 📺</li>
             </ul>
         </fieldset>
-        <fieldset class="semantic-tag border-yellow">
-            <legend><span>< article ></span></legend>
+        <fieldset style="padding: 5px 15px; margin: 10px; border-radius: 15px; border: 2px solid #ffc107;">
+            <legend><span style="padding: 5px">< article ></span></legend>
             <p>
                 En mis 7 años de experiencia como desarrollador, he acumulado gran conocimiento en <strong>Frontend</strong>, <strong>Backend</strong>, <strong>Bases de datos</strong> y desarrollo de <strong>aplicaciones híbridas</strong>. He colaborado en distintas plataformas en sectores como <em>educación</em>, <em>Fintech</em>, <em>Seguridad social</em> entre otras. Me gusta leer sobre tecnología para siempre tener las mejores herramientas con las cuales desarrollar mi trabajo cada día.
             </p>
@@ -84,35 +40,37 @@
             </p>
         </fieldset>
     </div>
-    <fieldset class="semantic-tag">
-        <legend><span>< script ></span></legend>
+    <fieldset style="padding: 5px 15px; margin: 10px; border-radius: 15px">
+        <legend><span style="padding: 5px">< script ></span></legend>
         <div style="width: 500px">
             <pre>
-            const skills = {
-                languages: [ Javascript, Typescript, PHP, Python, Dart ],
-                frameworks: [ Angular, Flutter, Laravel, AdonisJS, NestJS, React Native, React, Ionic, Express],
-                dataBases: [MySQL, PostgreSQL, MongoDB],
-                environment: [Git, Github, Bitbucket, Docker, Unit Testing],
-                currentLearning: [GraphQL, AWS, English]
-            }
+                <code>
+                    const skills = {
+                        languages: [ Javascript, Typescript, PHP, Python, Dart ],
+                        frameworks: [ Angular, Flutter, Laravel, AdonisJS, NestJS, React Native, React, Ionic, Express],
+                        dataBases: [MySQL, PostgreSQL, MongoDB],
+                        environment: [Git, Github, Bitbucket, Docker, Unit Testing],
+                        learning: [GraphQL, AWS, English]
+                    }
+                </code>
             <pre>
         </div>
     </fieldset>
-    <fieldset class="semantic-tag border-blue">
-        <legend><span>< footer ></span></legend>
-        <ul class="list-contact">
-            <li>Contact:</li>
-            <li style="width: 20px">
+    <fieldset style="padding: 5px 15px; margin: 10px; border-radius: 15px; border: 2px solid #0dcaf0;">
+        <legend><span style="padding: 5px">< footer ></span></legend>
+        <ul style="display: flex; list-style: none; justify-content: center;align-items: center">
+            <li style="margin-right: 10px">Contact:</li>
+            <li style="margin-right: 10px; width: 20px">
                 <a href="https://www.linkedin.com/in/andres-vega-89a0558a/" target="_blank">
                     <img src="./assets/linkedin.png" />
                 </a>
             </li>
-            <li style="width: 25px">
+            <li style="margin-right: 10px; width: 25px">
                 <a href="https://www.hackerrank.com/elb_andres8" target="_blank">
                     <img src="./assets/hackerrank.webp" />
                 </a>
             </li>
-            <li style="width: 25px">
+            <li style="margin-right: 10px; width: 25px">
                 <a href="https://www.udemy.com/user/88efbec4-3461-4970-ae43-a3d8485ed240/" target="_blank">
                     <img src="./assets/udemy.webp" />
                 </a>
