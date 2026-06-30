@@ -1,7 +1,12 @@
 # Hi, I'm Andres Vega 👨🏻‍💻 
-**Software Engineer | FullStack Developer**
 
 ![](./assets/js_banner.webp)
+
+## **Software Engineer | FullStack Developer**
+
+* 👨🏻‍💻 [Linkedin](https://www.linkedin.com/in/andres-vega-89a0558a/): My professional profile
+* 📑 [Hackerrank](https://www.hackerrank.com/elb_andres8): Show some of a logic skills
+* 📹 [Udemy](https://www.udemy.com/user/88efbec4-3461-4970-ae43-a3d8485ed240/): My favorites course collection 🤓
 
 ## What about me?
 
@@ -39,21 +44,26 @@ const myHobbieList = [
 |`Cloud` | ⭐️⭐️⭐️ | `AWS, Firebase, Vercel` |
 |`Environment` | ⭐️⭐️⭐️⭐️⭐️ | `Git, Docker, Unit Testing, RabbitMQ` |
 |`Architecture` | ⭐️⭐️⭐️⭐️ | `GraphQL, REST, Hexagonal Arch, Microservices, Modular Monolitics, OWASP` |
+|`IA` | ⭐️⭐️⭐️⭐️ | `Opencode, Harness Engineering, SDD` |
 
 ## Working on
 
-- 🔭 I’m currently working on a catalog web for show several product types. this project will be developed with NextJS, Postgres but even not jet has defined hosting.
+### [PymeShop](https://pyme-shop-web.vercel.app/landing)
+
+This store was created with Nextjs and Postgres (prisma). Was develop using IA SDD harness for apply agentic colaboration. The goal for this project is practice about new Nextjs features and implement payments and others features too.
+
+About the store, you can create a single tenant and public you own products.
+
+**Soon:**
+
+* Would be able for add online payments, and suscriptions. For now the store is free without a specific limit.
+* Add a description for architecture on full detail
+
+code: https://github.com/eandres8/pyme-shop-web
 
 ![Pyme-Shop](./assets/pyme_shop.png)
 
-            
-## Contact
-
-*   [Linkedin](https://www.linkedin.com/in/andres-vega-89a0558a/): My professional profile
-*   [Hackerrank](https://www.hackerrank.com/elb_andres8): Show some of a logic skills
-*   [Udemy](https://www.udemy.com/user/88efbec4-3461-4970-ae43-a3d8485ed240/): My favorites course collection 😄
-
-
+**version: 1.1.0** (2026-06-30)
 
 <!--
 **eandres8/eandres8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
