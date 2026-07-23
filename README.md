@@ -33,6 +33,10 @@ const myHobbieList = [
 
 ## Skills
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eandres8&theme=dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=eandres8)](https://github.com/stats-organization/github-stats-extended)
+
 | Tecnology | Stars | Frameworks/Libraries |
 |-------|---------|------|
 |`Javascript/Typescript` | ⭐️⭐️⭐️⭐️⭐️ | `Angular, React(ReactJS, React Native, NextJS), NestJS, Express` |
@@ -49,6 +53,8 @@ const myHobbieList = [
 ## Working on
 
 ### [PymeShop](https://pyme-shop-web.vercel.app/landing)
+
+[https://pyme-shop-web.vercel.app](https://pyme-shop-web.vercel.app)
 
 This store was created with Nextjs and Postgres (prisma). Was develop using IA SDD harness for apply agentic colaboration. The goal for this project is practice about new Nextjs features and implement payments and others features too.
 
