@@ -4,9 +4,13 @@
 
 ## **Software Engineer | FullStack Developer**
 
-* 👨🏻‍💻 [Linkedin](https://www.linkedin.com/in/andres-vega-89a0558a/): My professional profile
-* 📑 [Hackerrank](https://www.hackerrank.com/elb_andres8): Show some of a logic skills
-* 📹 [Udemy](https://www.udemy.com/user/88efbec4-3461-4970-ae43-a3d8485ed240/): My favorites course collection 🤓
+Links | About
+---- | ----
+[LINKEDIN](https://www.linkedin.com/in/andres-vega-89a0558a/) | 👨🏻‍💻 My professional profile
+[BLOG](https://able-addition-7e9.notion.site/Otro-blog-de-un-dev-8c354321dc5682539d79813d355cde9b) | 📝 My personal blog
+[HACKERANK](https://www.hackerrank.com/elb_andres8) | 📑 Show some of a logic skills
+[UDEMY](https://www.udemy.com/user/88efbec4-3461-4970-ae43-a3d8485ed240/) | 📹 My favorites course collection 🤓
+
 
 ## What about me?
 
@@ -33,8 +37,6 @@ const myHobbieList = [
 
 ## Skills
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eandres8&theme=dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=eandres8)](https://github.com/stats-organization/github-stats-extended)
 
 | Tecnology | Stars | Frameworks/Libraries |
@@ -43,16 +45,16 @@ const myHobbieList = [
 |`Python` | ⭐️⭐️⭐️ | `Django, FastAPI` |
 |`PHP` | ⭐️⭐️⭐️ | `Laravel, Symfony` |
 |`Dart` | ⭐️⭐️⭐️ | `Flutter` |
-|`Java` | ⭐️⭐️ | `Spring Boot` |
+|`Java` | ⭐️⭐️⭐️ | `Spring Boot` |
 |`Databases` | ⭐️⭐️⭐️⭐️ | `Postgres, MySQL, MongoDB, Redis, SQLite` |
-|`Cloud` | ⭐️⭐️⭐️ | `AWS, Firebase, Vercel` |
+|`Cloud` | ⭐️⭐️⭐️ | `AWS, Firebase, Vercel, Supabase` |
 |`Environment` | ⭐️⭐️⭐️⭐️⭐️ | `Git, Docker, Unit Testing, RabbitMQ` |
-|`Architecture` | ⭐️⭐️⭐️⭐️ | `GraphQL, REST, Hexagonal Arch, Microservices, Modular Monolitics, OWASP` |
+|`Architecture` | ⭐️⭐️⭐️⭐️ | `GraphQL, REST, Hexagonal Arch, Microservices, Modular Monolitics, OWASP, DDD` |
 |`IA` | ⭐️⭐️⭐️⭐️ | `Opencode, Harness Engineering, SDD` |
 
 ## Working on
 
-### [PymeShop](https://pyme-shop-web.vercel.app/landing)
+### [PymeShop](https://pyme-shop-web.vercel.app/landing) **version: 1.1.0** (2026-06-30)
 
 [https://pyme-shop-web.vercel.app](https://pyme-shop-web.vercel.app)
 
@@ -67,9 +69,12 @@ About the store, you can create a single tenant and public you own products.
 
 code: https://github.com/eandres8/pyme-shop-web
 
-![Pyme-Shop](./assets/pyme_shop.png)
+<p align="center">
+  <img height="180px" src="./assets/images/pymeshop/pyme_shop.png" />
+  <img height="180px" src="./assets/images/pymeshop/pyme_shop_product.png" />
+</p>
 
-**version: 1.1.0** (2026-06-30)
+
 
 <!--
 **eandres8/eandres8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
